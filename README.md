@@ -8,7 +8,7 @@ Scripts
 
 * `DebugBuild Wrap` - Wraps the selected text in `#If DebugBuild Then ... #EndIf`
 * `If False Wrap` - Wraps the selected text in `#If False Then ... #EndIf` effectively commenting out large blocks of code
-* `1 - Build App - Command Line` and `xojo_compile.sh` - Build from command line hack for OS X users
+* `Find` and `Find Next` - Simple current editor only find/find next.
 
 How to help?
 ------------
