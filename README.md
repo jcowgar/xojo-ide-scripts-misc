@@ -13,6 +13,7 @@ Scripts
   to `Ctrl+F` and `Ctrl+G` respectively (a Windows style shortcut)
 * `Reload Project` - Reloads the current project. This comes in handy when you alter the project
   from an external source, such as your SCM system. I bind this to `Cmd+Shift+R`
+* `Sort` - Sorts the selected text, or entire editor in alphabetical order
 
 How to help?
 ------------
