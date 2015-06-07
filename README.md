@@ -7,6 +7,7 @@ Scripts
 -------
 
 * `DebugBuild Wrap` - Wraps the selected text in `#If DebugBuild Then ... #EndIf`
+* `Diff` - Uses `git difftool` to show what has changed since your last commit/stage
 * `If False Wrap` - Wraps the selected text in `#If False Then ... #EndIf` effectively
   commenting out large blocks of code
 * `Find` and `Find Next` - Simple current editor only find/find next. I bind these scripts
