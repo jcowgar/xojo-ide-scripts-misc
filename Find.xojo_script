@@ -40,5 +40,6 @@ return
 end if
 
 SelStart = pos - 1
+SelLength = find.Len
 
 WriteFile("~/.cowgar-xojo-find", Str(pos) + "," + find)

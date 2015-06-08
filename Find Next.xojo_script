@@ -60,3 +60,4 @@ return
 end if
 
 SelStart = pos - 1
+SelLength = find.Len
